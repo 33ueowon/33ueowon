@@ -1,5 +1,5 @@
 <h1> Hello~ My name is LeeYeoWon 👩🏻‍💻 </h1>
-<center> Folow Me!</center>
+<h2><center> Folow Me!</center></h2>
 <center><a href="https://velog.io/@ueown0"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ueown0"/>
 <a href="https://github.com/33ueowon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"></center>
 
