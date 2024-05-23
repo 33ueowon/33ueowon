@@ -8,6 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33ueowon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
 <!---
 33ueowon/33ueowon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
