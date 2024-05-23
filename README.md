@@ -1,13 +1,5 @@
 <h1> Hello~ My name is LeeYeoWon 👩🏻‍💻 </h1>
-![](https://capsule-render.vercel.app/api?section=footer)
-type = waving
-color = coral 
-height = 150 
-section = header 
-fontSize = 30 
-animation = twinkling 
-text = 안녕하세요%20이여원입니다%30🙋‍♀️
-
+<a href="https://velog.io/@ueown0"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ueown0"/>
 
 - ✌🏻 항상..행복하게..코딩..하기..~~
 
