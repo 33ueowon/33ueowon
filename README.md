@@ -1,4 +1,14 @@
 <h1> Hello~ My name is LeeYeoWon 👩🏻‍💻 </h1>
+![](https://capsule-render.vercel.app/api?section=footer)
+type = waving (배경타입)
+color = coral 
+height = 150 
+section = header 
+fontSize = 30 
+animation = twinkling 
+text = 안녕하세요%20이여원입니다%30🙋‍♀️
+
+
 - ✌🏻 항상..행복하게..코딩..하기..~~
 
 <!---
