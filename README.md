@@ -1,6 +1,6 @@
 <h1> Hello~ My name is LeeYeoWon 👩🏻‍💻 </h1>
 ![](https://capsule-render.vercel.app/api?section=footer)
-type = waving (배경타입)
+type = waving
 color = coral 
 height = 150 
 section = header 
