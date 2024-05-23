@@ -9,7 +9,7 @@
  - Tools
 - ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-- 👩🏻‍💻email w2308@e-mirim.hs.kr
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w2308@e-mirim.hs.kr](w2308@e-mirim.hs.kr)
 
 - ✌🏻 항상..행복하게..코딩..하기..~~
 
