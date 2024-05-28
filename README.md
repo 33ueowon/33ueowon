@@ -40,3 +40,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=33ueowon&show_icons=true&theme=radical)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=150&section=footer&fontSize=90"/>
