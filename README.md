@@ -1,6 +1,15 @@
 
 
-<h1> My name is LeeYeoWon 👩🏻‍💻 </h1>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=8be49a&text=Hello!👋My name is %20Yeowon&reversal=false&fontColor=ffff&fontSize=65&animation=fadeIn"/>
+    </div>
+    <div align= "center">
+        <a href="https://hits.seeyoufarm.com">
+<!--             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayul&count_bg=%2377CC85&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> -->
+
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=30&duration=4500&pause=900&color=466558&center=true&multiline=true&random=false&width=435&lines=%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%83%88%EC%8B%B9+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%B6%94%EB%8B%A4%EC%9C%A8+%EC%9E%85%EB%8B%88%EB%8B%A4!+" alt="Typing SVG" /></a> -->
+<!--       <br> -->
+    </div>
 <h2> ✌🏻 항상..행복하게..코딩..하기..~~ </h2>
 <h2><center> Follow Me!</center></h2>
 <center><a href="https://velog.io/@ueown0"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ueown0"/>
