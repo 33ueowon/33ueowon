@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=My name%20to%20is%20Yeowon&fontSize=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Yeow@n%20GitHub&fontSize=50&animation=fadeIn"/>
 </div>
 </div><h2> It's Me!</h2>
 <a href="https://velog.io/@ueown0"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ueown0"/>
