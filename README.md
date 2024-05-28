@@ -22,6 +22,8 @@
 
 <div align = "center">
 <h2>🌱</h2>
+[![Github](https://www.codenary.co.kr/widget/github/api?username=이여원)](https://www.codenary.co.kr/user-profile/detail/이여원?github_ride=true&utm_source=github)
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33ueowon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
