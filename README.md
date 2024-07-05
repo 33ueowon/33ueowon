@@ -21,7 +21,7 @@
 
 # 개발 study period👽
 - `2023` wsm study with JWP(Jiwoo Park)
-- `2024` wsm study with jhl  
+- `2024` wsm study with jhrhim
 <br>
 
 - `2023` Java study with Gyu티
@@ -33,7 +33,8 @@
 <br>
 
 
-- `2023` C with minjoo___ri___T
+- `2023` C with JuriMin Teacher
+- `2024` python(피 톤) with jin下 先生님
 <br>
 
 # current situation👾
@@ -47,4 +48,19 @@
 - `Cospro Java 2급`
 - `컴퓨터활용능력 2급`
 - `Cospro Python 1급`
- 
+
+<br>
+
+# Language
+> I can speak a lot of language of English, spanish, Chinese, Japanese, Korean, German, Russian!
+- `English`
+- `Spanish`
+-  `Chinese`
+-  `Japanese`
+-  `Korean`
+-  `German`
+-  `Russian`
+-  `Josum language`
+-  I  want to make a lot of global friends~
+
+
