@@ -34,7 +34,7 @@
 
 
 - `2023` C with JuriMin Teacher
-- `2024` python(피 톤) with jin下 先生님
+- `2024` python with jin下 先生님
 <br>
 
 # current situation👾
