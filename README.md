@@ -1,4 +1,9 @@
-# Yeowon's world!~
+ 
+<div align="center">
+  <img src="https://github.com/33ueowon/33ueowon/assets/127466476/72c07f55-9057-414d-a06e-89e7330a1429" alt="SpinWorldGIF">
+</div>
+
+# Yeowon's world!!🌍
 > I'm JMT(재민)'s 제자 <br>
 > Please connect me! <br>
 > Let's talk each other. <br>
