@@ -9,7 +9,7 @@
 > Let's talk each other. <br>
 > My job is youtuber & Frontend developer! === I'm rich <br>
 > [My youtube link](https://www.youtube.com/@eeueowon) 👈🏻 click please & gudok please
-> 
+<br>
 # 개발 study period👽
 - `2023` wsm study with JWP(Jiwoo Park)
 - `2024` wsm study with jhl  
@@ -25,7 +25,7 @@
 
 
 - `2023` C with minjoo___ri___T
-
+<br>
   
 
  
