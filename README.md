@@ -61,6 +61,6 @@
 -  `German`
 -  `Russian`
 -  `Josum language`
--  I  want to make a lot of global friends~
+>  I  want to make a lot of global friends🤓
 
 
