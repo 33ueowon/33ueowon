@@ -65,7 +65,7 @@
 -  `Korean`
 -  `German`
 -  `Russian`
--  `Josum language`
+-  `Josun language`
 >  I  want to make a lot of global friends🤓
 
 
