@@ -3,9 +3,9 @@
   <img src="https://github.com/33ueowon/33ueowon/assets/127466476/72c07f55-9057-414d-a06e-89e7330a1429" alt="SpinWorldGIF">
 </div>
 
-<h1>Developing the Future of Earth</h1>
-  <p>Innovating solutions today for a sustainable tomorrow on our one and only Earth.</p>
-  <p>Shaping the future with sustainable development to protect our planet.</p>
+<h1>Developing the Future of Earth🌿</h1>
+  <p>Innovating solutions today for a sustainable tomorrow on our one and only Earth.🌍</p>
+  <p>Shaping the future with sustainable development to protect our planet.🚀</p>
 <br>
 
  <h1>Developing for a Better Earth</h1>
