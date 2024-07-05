@@ -41,7 +41,7 @@
 
  
 <div align="center">
-# current situation👾
+
   <img src="https://github.com/33ueowon/33ueowon/assets/127466476/8044b545-de7d-4aa0-a5bc-a9d41001e383">
 </div>
  
